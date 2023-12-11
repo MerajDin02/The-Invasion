@@ -8,4 +8,5 @@ Or take down all the alien ships to beat the game.
 Our original plan was to make the game keep track of your score and allow you to keep going when all the alien ships
 were taken down. We also wanted to make a play again buttton if the game was eneded because you had no more lives.
 But under the circumstances and the time we had, we just made the game end once you've taken down all the alien ships.
+
 A video demonstration of the game can be found found here: https://youtu.be/bvYKLxBibWU
